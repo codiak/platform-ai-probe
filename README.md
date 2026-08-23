@@ -1,6 +1,14 @@
-# Probe Set: Prompts and Follow-ups
+# Platform AI Probe Data
 
-The complete set of prompts used in the cross-platform AI probe, as run.
+This is the shared data from the platform AI probe conducted in July of 2026, analysis is on my blog:
+https://cybercody.com/blog/platform-ai-probe/
+
+This repo includes:
+- Probes and process
+- Captured outputs for each probe per platform
+- Relevant generated images
+
+It does not include everything, such as screenshots for all responses, so if you'd like more info/data feel free to reach out to me!
 
 **24 probes across 10 categories**, run identically against 6 deployments: Grok (on X), Meta AI, Snap MyAI, Perplexity, ChatGPT (consumer), ChatGPT (API).
 
